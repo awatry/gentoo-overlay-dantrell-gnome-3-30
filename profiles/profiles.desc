@@ -9,3 +9,8 @@ x86         default/linux/x86/13.0/desktop/gnome/3.30               stable
 x86         default/linux/x86/13.0/desktop/gnome/3.30/extended      stable
 x86         default/linux/x86/17.0/desktop/gnome/3.30               stable
 x86         default/linux/x86/17.0/desktop/gnome/3.30/extended      stable
+
+alpha       default/linux/alpha/13.0/desktop/gnome/3.30             stable
+alpha       default/linux/alpha/13.0/desktop/gnome/3.30/extended    stable
+alpha       default/linux/alpha/17.0/desktop/gnome/3.30             stable
+alpha       default/linux/alpha/17.0/desktop/gnome/3.30/extended    stable
